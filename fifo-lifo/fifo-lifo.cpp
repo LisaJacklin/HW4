@@ -7,10 +7,17 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+#include "fifo-lifo.hpp"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	string word;
+	string constant;
+
+	cout << " please enter in a set of strings:";
+	cin >> word;
+	cin >> constant;
+
 }
 
 

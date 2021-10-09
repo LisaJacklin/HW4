@@ -9,5 +9,13 @@
 using namespace std;
 
 //Last-In First-Out
-void LifoPush(vector<string>& container, const string& item);
-void LifoPop(vector<string>& container, string& item);
+void LifoPush(vector<string>& container, const string& item) {
+    string word;
+
+}
+
+
+
+void LifoPop(vector<string>& container, string& item) {
+
+}
